@@ -2,4 +2,4 @@
 
 En mi caso, el examen final del dia 07/01,  me faltó responder la pregunta 2.
 
-En el reposirio se encuentra la respuesta en la imagen "Respuesta-2.png"
+En el repositorio se encuentra el diagrama solicitado en el punto 2 --> "Respuesta-2.png"
